@@ -1,7 +1,5 @@
 import datetime
 import os
-import string
-import random
 
 data_buku = {
     'penulis':'XXXXXXXxXXX',
